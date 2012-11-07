@@ -19,7 +19,7 @@ min([1,5,6,1,2,0])
 
 ### min(array, fn)
 
-  Max value in `array` with callback `fn(val, i)`:
+  Min value in `array` with callback `fn(val, i)`:
 
 ```js
 var age = min(users, function(u){ return u.age })
@@ -27,7 +27,7 @@ var age = min(users, function(u){ return u.age })
 
 ### min(array, string)
 
-  Max value in `array` with the given property `string`:
+  Min value in `array` with the given property `string`:
 
 ```js
 var age = min(users, 'age')

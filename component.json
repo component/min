@@ -2,7 +2,7 @@
   "name": "min",
   "repo": "component/min",
   "description": "Array min value utility",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": ["array", "min", "utility"],
   "dependencies": {
     "component/to-function": "*"
